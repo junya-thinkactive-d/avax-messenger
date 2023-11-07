@@ -1,0 +1,13 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.8.20+commit.a1b79de6",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": [
+    "source.addMissingImports",
+    "source.fixAll.eslint"
+  ],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "cSpell.words": ["generateabi", "postgenerateabi"]
+}
